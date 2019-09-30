@@ -1,0 +1,54 @@
+{
+  "name": "eleventy-html5up-ethereal",
+  "version": "0.0.1",
+  "description": "A minimal 11ty starter, with an Html5 Up design integrated",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clean": "rimraf dist",
+    "eleventy:default": "npx eleventy",
+    "eleventy:watch": "npx eleventy --watch",
+    "styles:prod": "node-sass src/assets/sass/ --output dist/assets/css && postcss ./dist/assets/css/*.css --replace",
+    "styles:dev": "node-sass src/assets/sass/ --output dist/assets/css --source-map true --source-map-contents true && postcss ./dist/assets/css/*.css --replace",
+    "cp:img": "cpx src/images/*.* ./dist/images/",
+    "cp:js": "cpx src/assets/js/*.* ./dist/assets/js/",
+    "cp:fonts": "cpx src/assets/webfonts/*.*  ./dist/assets/webfonts/",
+    "scripts:prod": "webpack --mode=production",
+    "scripts:dev": "webpack --mode=development",
+    "serve": "light-server -c .lightserverrc",
+    "dev": "npm-run-all clean cp:js cp:fonts cp:img styles:dev scripts:dev eleventy:default --parallel eleventy:watch serve --print-label",
+    "dev:debug": "DEBUG=* npm run dev",
+    "build": "run-s clean cp:js cp:fonts cp:img styles:prod scripts:prod eleventy:default --print-label"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/app-generator/eleventy-html5up-ethereal.git"
+  },
+  "author": "",
+  "license": "CCA 3.0",
+  "bugs": {
+    "url": "https://github.com/app-generator/eleventy-html5up-ethereal/issues"
+  },
+  "homepage": "https://eleventy-html5up-ethereal.appseed.us",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.9.0",
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "autoprefixer": "^9.6.1",
+    "babel-loader": "^8.0.6",
+    "cssnano": "^4.1.10",
+    "cssnano-preset-advanced": "^4.0.7",
+    "light-server": "^2.6.3",
+    "npm-run-all": "^4.1.5",
+    "postcss-cli": "^6.1.3",
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.7"
+  },
+  "dependencies": {
+    "acorn": "^6.1.1",
+    "cpx": "^1.5.0",
+    "ftp-deploy": "^2.3.3",
+    "ncp": "^2.0.0",
+    "node-sass": "^4.12.0"
+  }
+}
