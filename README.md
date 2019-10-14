@@ -1,4 +1,4 @@
-﻿# [Eleventy Html5UP Ethereal](https://eleventy-html5up-ethereal.appseed.us)
+# [Eleventy Ethereal](https://appseed.us/static-site/eleventy-html5up-ethereal)
 
 Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Ethereal Design  
 
@@ -20,7 +20,8 @@ Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Ethere
 
 ## App Links
 
-- [Eleventy Html5UP Ethereal](https://eleventy-html5up-ethereal.appseed.us) - Live DEMO
+- [Eleventy Ethereal](https://eleventy-html5up-ethereal.appseed.us) - Live DEMO
+- [Eleventy Ethereal](https://appseed.us/static-site/eleventy-html5up-ethereal) -  Product page 
 
 <br />
 
@@ -47,4 +48,4 @@ $ # app is running on http://localhost:4000
 <br />
 
 ---
-[Eleventy Html5UP Ethereal](https://eleventy-html5up-ethereal.appseed.us) - provided by **AppSeed**
+[Eleventy Ethereal](https://appseed.us/static-site/eleventy-html5up-ethereal) - provided by **AppSeed**
