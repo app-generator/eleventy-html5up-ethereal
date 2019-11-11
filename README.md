@@ -46,7 +46,6 @@ $ yarn build
 <br />
 
 ## Project Structure
----
 
 The boilerplate code is built with a modular structure that follows the recommended pattern used by many open-source projects. The most important files / directories are listed bellow:
 
@@ -77,7 +76,6 @@ The boilerplate code is built with a modular structure that follows the recommen
 <br />
 
 ## Support
----
 
 - Free support via eMail < [support @ appseed.us](https://appseed.us/support) > and [Github](https://github.com/app-generator/flask-argon-dashboard/issues/)
 - 24/7 Live Support via [Discord](https://discord.gg/fZC6hup) for paid plans and commercial products.
@@ -85,7 +83,6 @@ The boilerplate code is built with a modular structure that follows the recommen
 <br />
 
 ## Resources
----
 
 - [Eleventy Ethereal](https://appseed.us/static-site/eleventy-html5up-ethereal) - Product page
 - [Eleventy Ethereal](https://eleventy-html5up-ethereal.appseed.us) - Live DEMO
