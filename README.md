@@ -1,16 +1,13 @@
 # [Static Site Eleventy Ethereal](https://appseed.us/static-site/eleventy-html5up-ethereal)
 
-Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Ethereal Design  
+Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Ethereal Design. Boilerplate features:
 
 - Design: HTML5up Ethereal
-- [11ty](https://www.11ty.io/)
-- [Sass/SCSS](https://github.com/sass/node-sass)
-- [Webpack](https://webpack.js.org/)
-- [Babel](https://babeljs.io/)
-- [light-server](https://github.com/txchen/light-server)
-- [PostCSS](https://postcss.org/)
-- [CSSnano](https://cssnano.co/)
-- [Autoprefixer](https://github.com/postcss/autoprefixer)
+- SSG: [11ty](https://www.11ty.io/)
+- Webpack, Babel
+- Light-server - for browser refresh
+- PostCSS, Sass/SCSS, CSSnano
+- Autoprefixer
 
 <br />
 
@@ -20,15 +17,20 @@ Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Ethere
 
 ## How to use it
 
-- Build from sources:
-
-```
+```bash
+$ # clone the sources
 $ git clone https://github.com/app-generator/eleventy-html5up-ethereal.git
 $ cd eleventy-html5up-ethereal
-$ yarn # install modules
-$ yarn dev # start in development mode
-
+$
+$ # install modules
+$ yarn
+$
+$ # start the project in development mode
+$ yarn dev
 $ # app is running on http://localhost:4000
+$
+$ # build the project for production
+$ yarn build
 ```
 
 <br />
@@ -43,10 +45,50 @@ $ # app is running on http://localhost:4000
 
 <br />
 
-## [Static Site Ethereal](https://appseed.us/static-site/eleventy-html5up-ethereal) Links
+## Project Structure
+---
 
+The boilerplate code is built with a modular structure that follows the recommended pattern used by many open-source projects. The most important files / directories are listed bellow:
+
+- [.eleventy.js](https://github.com/app-generator/eleventy-html5up-ethereal/blob/master/.eleventy.js)
+- [package.json](https://github.com/app-generator/eleventy-html5up-ethereal/blob/master/package.json)
+- [src /](https://github.com/app-generator/eleventy-html5up-ethereal/tree/master/src)
+- [src / _includes](https://github.com/app-generator/eleventy-html5up-ethereal/tree/master/src/_includes)
+- [src / assets](https://github.com/app-generator/eleventy-html5up-ethereal/tree/master/src/assets)
+- [src / data / data.json](https://github.com/app-generator/eleventy-html5up-ethereal/blob/master/src/_data/data.json)
+- [src / index.njk](https://github.com/app-generator/eleventy-html5up-ethereal/blob/master/src/index.njk)
+
+<br />
+
+```bash
+< ROOT > - Eleventy Ethereal      # project root folder
+    |
+    |--- src/                     # website source folder  
+    |--- src/_includes            # website partials (footer, header)  
+    |--- src/assets               # website assets (scss, javascript files)
+    |--- src/index.njk            # index page in NJK format
+    |  
+    |--- .eleventy.js             # Eleventy (11ty) config file
+    |--- package.json             # main script executed by Yarn, Npm
+    |
+    |-----------------------------
+```
+
+<br />
+
+## Support
+---
+
+- Free support via eMail < [support @ appseed.us](https://appseed.us/support) > and [Github](https://github.com/app-generator/flask-argon-dashboard/issues/)
+- 24/7 Live Support via [Discord](https://discord.gg/fZC6hup) for paid plans and commercial products.
+
+<br />
+
+## Resources
+---
+
+- [Eleventy Ethereal](https://appseed.us/static-site/eleventy-html5up-ethereal) - Product page
 - [Eleventy Ethereal](https://eleventy-html5up-ethereal.appseed.us) - Live DEMO
-- [Eleventy Ethereal](https://appseed.us/static-site/eleventy-html5up-ethereal) -  Product page 
 
 <br />
 
