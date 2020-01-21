@@ -11,7 +11,18 @@ Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Ethere
 
 <br />
 
-![Eleventy Html5UP Ethereal - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/eleventy-html5up-ethereal-intro.gif?raw=true)
+## Want more? Go PRO!
+
+PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup)) 
+
+| [Eleventy Material Kit PRO](https://appseed.us/static-site/eleventy-material-kit-pro) | [Eleventy Paper Kit PRO](https://appseed.us/static-site/eleventy-paper-kit-pro) | [Eleventy Now UI Kit PRO](https://appseed.us/static-site/eleventy-now-ui-kit-pro) |
+| --- | --- | --- |
+| [![Eleventy Material Kit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-material-kit-pro-screen.png)](https://appseed.us/static-site/eleventy-material-kit-pro)  | [![Eleventy Paper Kit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-paper-kit-pro-screen.png)](https://appseed.us/static-site/eleventy-paper-kit-pro) | [![Eleventy Now UI Kit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-now-ui-kit-pro-screen.png)](https://appseed.us/static-site/eleventy-now-ui-kit-pro)
+
+<br />
+<br />
+
+![Eleventy Html5UP Ethereal - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-ethereal-screen.png)
 
 <br />
 
@@ -32,16 +43,6 @@ $
 $ # build the project for production
 $ yarn build
 ```
-
-<br />
-
-## Want more? Go PRO!
-
-<br />
-
-| [Eleventy Material Kit PRO](https://appseed.us/static-site/eleventy-material-kit-pro) | [Eleventy Paper Kit PRO](https://appseed.us/static-site/eleventy-paper-kit-pro) | [Eleventy Now UI Kit PRO](https://appseed.us/static-site/eleventy-now-ui-kit-pro) |
-| --- | --- | --- |
-| [![Eleventy Material Kit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-material-kit-pro-intro.gif)](https://appseed.us/static-site/eleventy-material-kit-pro)  | [![Eleventy Paper Kit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-paper-kit-pro-intro.gif)](https://appseed.us/static-site/eleventy-paper-kit-pro) | [![Eleventy Now UI Kit PRO](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-now-ui-kit-pro-intro.gif)](https://appseed.us/static-site/eleventy-now-ui-kit-pro)
 
 <br />
 
