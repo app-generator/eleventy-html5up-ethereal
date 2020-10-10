@@ -30,7 +30,7 @@ PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Suppo
 <br />
 <br />
 
-![Eleventy Html5UP Ethereal - Static Site built in Eleventy.]https://raw.githubusercontent.com/app-generator/eleventy-html5up-ethereal/master/media/eleventy-html5up-ethereal-screen.png)
+![Eleventy Html5UP Ethereal - Static Site built in Eleventy.](https://raw.githubusercontent.com/app-generator/eleventy-html5up-ethereal/master/media/eleventy-html5up-ethereal-screen.png)
 
 <br />
 
