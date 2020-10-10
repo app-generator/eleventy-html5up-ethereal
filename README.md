@@ -1,4 +1,4 @@
-# [Static Site Eleventy Ethereal](https://appseed.us/static-site/eleventy-html5up-ethereal)
+# [Static Site](https://appseed.us/static-site) - [Eleventy Ethereal](https://appseed.us/static-site/eleventy-html5up-ethereal)
 
 Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Ethereal Design. Boilerplate features:
 
@@ -8,6 +8,14 @@ Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Ethere
 - Light-server - for browser refresh
 - PostCSS, Sass/SCSS, CSSnano
 - Autoprefixer
+
+<br />
+
+**Links**
+
+- [Eleventy Ethereal](https://appseed.us/static-site/eleventy-html5up-ethereal) - the product page
+- [Eleventy Ethereal - Demo](https://eleventy-html5up-ethereal.appseed.us/) - the product page
+- [Eleventy Ethereal - Sources](https://github.com/app-generator/eleventy-html5up-ethereal) - the product page
 
 <br />
 
@@ -22,7 +30,7 @@ PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Suppo
 <br />
 <br />
 
-![Eleventy Html5UP Ethereal - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-ethereal-screen.png)
+![Eleventy Html5UP Ethereal - Static Site built in Eleventy.]https://raw.githubusercontent.com/app-generator/eleventy-html5up-ethereal/master/media/eleventy-html5up-ethereal-screen.png)
 
 <br />
 
